@@ -19,6 +19,6 @@ This GitHub organisation is maintained by [Nithiya Streethran](https://github.co
 
 - [Dr. Paul Leahy](https://research.ucc.ie/profiles/D012/paulleahy) (School of Engineering and Architecture & ERI, UCC)
 - [Dr. Kieran Hickey](https://research.ucc.ie/profiles/A010/kieranhickey) (Department of Geography & ERI, UCC)
-- [Prof. Astrid Wingler](https://www.ucc.ie/en/bees/people/astridwingler/) (School of Biological, Earth and Environmental Sciences & ERI, UCC)
+- [Prof. Astrid Wingler](https://research.ucc.ie/profiles/D026/astridwingler) (School of Biological, Earth and Environmental Sciences & ERI, UCC)
 
 ![ClimAg project logos](/images/logos.png)
