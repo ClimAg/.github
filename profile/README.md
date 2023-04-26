@@ -2,7 +2,7 @@
 
 ![ClimAg project logos](/images/logos.png)
 
-ClimAg is a three-year research project funded by the [Irish Environmental Protection Agency (EPA)](https://www.epa.ie/) under the Climate Change Research Programme grant number 2018-CCRP-MS.50.
+ClimAg is a three-year research project funded by the [Irish Environmental Protection Agency (EPA)](https://www.epa.ie/) under the Climate Change Research Programme grant number 2018-CCRP-MS.50, with additional funding provided under the COVID-19 research support scheme of the [Higher Education Authority](https://hea.ie/).
 
 This GitHub organisation hosts the project's repositories and is maintained by [Nithiya Streethran](https://github.com/nmstreethran) (Research Assistant, [Environmental Research Institute (ERI)](https://eri.ucc.ie), [University College Cork (UCC)](https://www.ucc.ie)).
 
