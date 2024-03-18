@@ -2,8 +2,6 @@
 
 ![ClimAg project logos](/images/logos.png)
 
-[![Documentation Status](https://readthedocs.org/projects/climag/badge/?version=latest)](https://climag.readthedocs.io/?badge=latest)
-
 ClimAg is examining past fodder crises such as the 2018 dry summer and placing them in the context of long-term climate change.
 
 ClimAg seeks to identify the multifactorial drivers of fodder crises by:
@@ -17,9 +15,9 @@ This GitHub organisation hosts the project's repositories and is maintained by [
 
 ## Team
 
-- [Dr. Paul Leahy](https://research.ucc.ie/profiles/D012/paulleahy) (School of Engineering and Architecture)
+- [Dr. Paul Leahy](https://research.ucc.ie/profiles/D012/paulleahy) (School of Engineering & Architecture)
 - [Dr. Kieran Hickey](https://research.ucc.ie/profiles/A010/kieranhickey) (Department of Geography)
-- [Prof. Astrid Wingler](https://research.ucc.ie/profiles/D026/astridwingler) (School of Biological, Earth and Environmental Sciences)
+- [Prof. Astrid Wingler](https://research.ucc.ie/profiles/D026/astridwingler) (School of Biological, Earth & Environmental Sciences)
 - [Nithiya Streethran](https://research.ucc.ie/profiles/D012/nstreethran)
 
 ## Links
@@ -27,14 +25,14 @@ This GitHub organisation hosts the project's repositories and is maintained by [
 - [GitHub organisation](https://github.com/ClimAg)
 - [Documentation](https://climag.readthedocs.io/)
 - [Landing page](https://www.ucc.ie/en/eel/projects/climag/)
-- [Twitter](https://twitter.com/climatt_project)
+- [X](https://x.com/climatt_project)
 - [Bibliography](https://www.zotero.org/groups/4706660/climag/library)
 
 ## Acknowledgements
 
 ClimAg is a three-year research project funded by the [Environmental Protection Agency (EPA)](https://www.epa.ie/) under the Climate Change Research Programme grant number 2018-CCRP-MS.50, with additional funding provided under the COVID-19 research support scheme of the [Higher Education Authority](https://hea.ie/).
 
-The Python implementation of the [ModVege](https://code.europa.eu/agri4cast/modvege) pasture model adapted for use in this project was translated from Java to Python by Y. Chemin.
+The Python implementation of the [ModVege](https://code.europa.eu/agri4cast/modvege) pasture model adapted for use in this project was translated from Java to Python by Y. Chemin of [JRC Ispra](https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-ispra-italy_en).
 This Python implementation was originally published as public domain software on GitHub under the [Unlicence license](https://github.com/ClimAg/modvege).
-The Java model was provided by R. Martin of INRAE UREP Clermont-Ferrand for the original Python implementation.
+The Java model was provided by R. Martin of [INRAE](https://www.inrae.fr/en) UREP Clermont-Ferrand for the original Python implementation.
 The original ModVege pasture model was developed by [Jouven et al.](https://doi.org/10.1111/j.1365-2494.2006.00515.x)
