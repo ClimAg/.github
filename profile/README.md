@@ -22,11 +22,10 @@ This GitHub organisation hosts the project's repositories and is maintained by [
 
 ## Links
 
-- [GitHub organisation](https://github.com/ClimAg)
 - [Documentation](https://climag.readthedocs.io/)
 - [Landing page](https://www.ucc.ie/en/eel/projects/climag/)
 - [X](https://x.com/climatt_project)
-- [Bibliography](https://www.zotero.org/groups/4706660/climag/library)
+- [Zotero library](https://www.zotero.org/groups/4706660/climag/library)
 
 ## Acknowledgements
 
