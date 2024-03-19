@@ -15,10 +15,14 @@ This GitHub organisation hosts the project's repositories and is maintained by [
 
 ## Team
 
-- [Dr. Paul Leahy](https://research.ucc.ie/profiles/D012/paulleahy) (School of Engineering & Architecture)
-- [Dr. Kieran Hickey](https://research.ucc.ie/profiles/A010/kieranhickey) (Department of Geography)
-- [Prof. Astrid Wingler](https://research.ucc.ie/profiles/D026/astridwingler) (School of Biological, Earth & Environmental Sciences)
-- [Nithiya Streethran](https://research.ucc.ie/profiles/D012/nstreethran)
+- [Dr. Paul Leahy](https://research.ucc.ie/profiles/D012/paulleahy) (Investigator, School of Engineering & Architecture)
+- [Dr. Kieran Hickey](https://research.ucc.ie/profiles/A010/kieranhickey) (Investigator, Department of Geography)
+- [Prof. Astrid Wingler](https://research.ucc.ie/profiles/D026/astridwingler) (Investigator, School of Biological, Earth & Environmental Sciences)
+- [Nithiya Streethran](https://research.ucc.ie/profiles/D012/nstreethran) (Researcher, Environmental Research Institute)
+
+### Alumni
+
+- Eva Kling (Intern, Polytech Montpellier)
 
 ## Links
 
