@@ -23,6 +23,14 @@ This GitHub organisation hosts the project's repositories and is maintained by [
 ### Alumni
 
 - Eva Kling (Intern, Polytech Montpellier)
+- Cathal Nolan (Researcher, Department of Geography)
+
+## Publications
+
+### Poster
+
+1. Nolan, C.G. et al. (2021) ‘Risk of Drought-Related “Fodder Crises” in Irish Agriculture under mid-21st Century Climatic Conditions’. Irish National Hydrology Conference, Athlone, November. Available at: <https://hydrologyireland.ie/wp-content/uploads/2021/12/03-Paul-Leahy-NHC_ClimAg_A0_Poster_Leahy.pdf> (Accessed: 3 June 2022).
+1. Leahy, P. et al. (2022) ‘Increased severity and frequency of fodder production deficits under future climate conditions in Ireland’. International Symposium on Climate-Resilient Agri-Environmental Systems, Dublin, 29 August. Available at: <https://www.iscraes.org/wp-content/uploads/2023/01/Paul-Leahy-Poster-grassland-poster-ISCRAES-2022.pdf> (Accessed: 27 March 2023).
 
 ## Links
 
