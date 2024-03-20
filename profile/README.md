@@ -11,7 +11,7 @@ ClimAg seeks to identify the multifactorial drivers of fodder crises by:
 
 This research project was carried out at the [Environmental Research Institute (ERI)](https://eri.ucc.ie), [University College Cork (UCC)](https://www.ucc.ie) between 2019 and 2023.
 
-This GitHub organisation hosts the project's repositories and is maintained by [Nithiya Streethran](https://github.com/nmstreethran).
+This GitHub organisation hosts the project's repositories and is maintained by [Nithiya Streethran](https://github.com/nmstreethran). Documentation is available at [climag.readthedocs.io](https://climag.readthedocs.io/).
 
 ## Team
 
@@ -29,15 +29,8 @@ This GitHub organisation hosts the project's repositories and is maintained by [
 
 ### Poster
 
-1. Nolan, C. G., Leahy, P. G., Hickey, K., and Wingler, A. (2021) ‘Risk of Drought-Related “Fodder Crises” in Irish Agriculture under mid-21st Century Climatic Conditions’. Irish National Hydrology Conference, Athlone, November. Available at: <https://hydrologyireland.ie/wp-content/uploads/2021/12/03-Paul-Leahy-NHC_ClimAg_A0_Poster_Leahy.pdf> (Accessed: 3 June 2022).
-1. Leahy, P. G., Streethran, N., Hickey, K., and Wingler, A. (2022) ‘Increased severity and frequency of fodder production deficits under future climate conditions in Ireland’. International Symposium on Climate-Resilient Agri-Environmental Systems, Dublin, 29 August. Available at: <https://www.iscraes.org/wp-content/uploads/2023/01/Paul-Leahy-Poster-grassland-poster-ISCRAES-2022.pdf> (Accessed: 27 March 2023).
-
-## Links
-
-- [Documentation](https://climag.readthedocs.io/)
-- [Landing page](https://www.ucc.ie/en/eel/projects/climag/)
-- [X](https://x.com/climatt_project)
-- [Zotero library](https://www.zotero.org/groups/4706660/climag/library)
+1. Nolan, C. G., Leahy, P. G., Hickey, K., and Wingler, A. (2021) ‘Risk of Drought-Related “Fodder Crises” in Irish Agriculture under mid-21st Century Climatic Conditions’. *Irish National Hydrology Conference*, Athlone, November. Available at: <https://hydrologyireland.ie/wp-content/uploads/2021/12/03-Paul-Leahy-NHC_ClimAg_A0_Poster_Leahy.pdf> (Accessed: 3 June 2022).
+1. Leahy, P. G., Streethran, N., Hickey, K., and Wingler, A. (2022) ‘Increased severity and frequency of fodder production deficits under future climate conditions in Ireland’. *International Symposium on Climate-Resilient Agri-Environmental Systems*, Dublin, 29 August. Available at: <https://www.iscraes.org/wp-content/uploads/2023/01/Paul-Leahy-Poster-grassland-poster-ISCRAES-2022.pdf> (Accessed: 27 March 2023).
 
 ## Acknowledgements
 
@@ -47,3 +40,9 @@ The Python implementation of the [ModVege](https://code.europa.eu/agri4cast/modv
 This Python implementation was originally published as public domain software on GitHub under the [Unlicence license](https://github.com/ClimAg/modvege).
 The Java model was provided by R. Martin of [INRAE](https://www.inrae.fr/en) UREP Clermont-Ferrand for the original Python implementation.
 The original ModVege pasture model was developed by [Jouven *et al.*](https://doi.org/10.1111/j.1365-2494.2006.00515.x)
+
+## Links
+
+- [Landing page](https://www.ucc.ie/en/eel/projects/climag/)
+- [X](https://x.com/climatt_project)
+- [Zotero library](https://www.zotero.org/groups/4706660/climag/library)
