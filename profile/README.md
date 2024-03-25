@@ -11,7 +11,8 @@ ClimAg seeks to identify the multifactorial drivers of fodder crises by:
 
 This research project was carried out at the [Environmental Research Institute (ERI)](https://eri.ucc.ie), [University College Cork (UCC)](https://www.ucc.ie) between 2019 and 2023.
 
-This GitHub organisation hosts the project's repositories and is maintained by [Nithiya Streethran](https://github.com/nmstreethran). Documentation is available at [climag.readthedocs.io](https://climag.readthedocs.io/).
+This GitHub organisation hosts the project's repositories and is maintained by [Nithiya Streethran](https://github.com/nmstreethran).
+Documentation is available at [climag.readthedocs.io](https://climag.readthedocs.io/).
 
 ## Team
 
