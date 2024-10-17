@@ -11,8 +11,7 @@ ClimAg seeks to identify the multifactorial drivers of fodder crises by:
 
 This research project was carried out at the [Environmental Research Institute (ERI)](https://eri.ucc.ie), [University College Cork (UCC)](https://www.ucc.ie) between 2019 and 2023.
 
-This GitHub organisation hosts the project's repositories and is maintained by [Nithiya Streethran](https://github.com/nmstreethran).
-Documentation is available at [climag.readthedocs.io](https://climag.readthedocs.io/).
+This GitHub organisation hosts repositories for ClimAg and other related projects and is maintained by [Nithiya Streethran](https://github.com/nmstreethran).
 
 ## Team
 
@@ -26,16 +25,20 @@ Documentation is available at [climag.readthedocs.io](https://climag.readthedocs
 - Eva Kling (Intern, Polytech Montpellier)
 - Cathal Nolan (Researcher, Department of Geography)
 
-## Publications
+## Research outputs
 
-### Poster
-
-1. Nolan, C. G., Leahy, P. G., Hickey, K., and Wingler, A. (2021) ‘Risk of Drought-Related “Fodder Crises” in Irish Agriculture under mid-21st Century Climatic Conditions’. *Irish National Hydrology Conference*, Athlone, November. Available at: <https://hydrologyireland.ie/wp-content/uploads/2021/12/03-Paul-Leahy-NHC_ClimAg_A0_Poster_Leahy.pdf> (Accessed: 3 June 2022).
-1. Leahy, P. G., Streethran, N., Hickey, K., and Wingler, A. (2022) ‘Increased severity and frequency of fodder production deficits under future climate conditions in Ireland’. *International Symposium on Climate-Resilient Agri-Environmental Systems*, Dublin, 29 August. Available at: <https://www.iscraes.org/wp-content/uploads/2023/01/Paul-Leahy-Poster-grassland-poster-ISCRAES-2022.pdf> (Accessed: 27 March 2023).
+1. Streethran, N., Hickey, K., Wingler, A., and Leahy, P. (2024). *ClimAg: Multifactorial Causes of Fodder Crises in Ireland and Risks due to Climate Change*. Johnstown Castle: Environmental Protection Agency (EPA Research Report, 464). Available at: <https://www.epa.ie/publications/research/climate-change/research-464> (Accessed: 17 October 2024).
+1. Wingler, A., Streethran, N., Hickey, K., and Leahy, P. (2024). ‘Multifactorial drivers of fodder crises in Irish temperate pastures and risks due to climate change’, *Biology and Environment: Proceedings of the Royal Irish Academy*, 124(2), pp. 1–12.
+1. Leahy, P., Streethran, N., Hickey, K., and Wingler, A. (2024). ‘Grass production and fodder deficits in Ireland under projected mid-century climatic conditions’. *The 3rd International Symposium on Climate-Resilient Agri-Environmental Systems*, Dublin, 26 June. Available at: <https://doi.org/10.13140/RG.2.2.19287.48809>.
+1. Leahy, P. G., Streethran, N., Hickey, K., and Wingler, A. (2022). ‘Increased severity and frequency of fodder production deficits under future climate conditions in Ireland’. *The 2nd International Symposium on Climate-Resilient Agri-Environmental Systems*, Dublin, 29 August. Available at: <https://www.iscraes.org/wp-content/uploads/2023/01/Paul-Leahy-Poster-grassland-poster-ISCRAES-2022.pdf> (Accessed: 27 March 2023).
+1. Nolan, C. G., Leahy, P. G., Hickey, K., and Wingler, A. (2021). ‘Risk of Drought-Related “Fodder Crises” in Irish Agriculture under mid-21st Century Climatic Conditions’. *Irish National Hydrology Conference*, Athlone, November. Available at: <https://hydrologyireland.ie/wp-content/uploads/2021/12/03-Paul-Leahy-NHC_ClimAg_A0_Poster_Leahy.pdf> (Accessed: 3 June 2022).
 
 ## Acknowledgements
 
-ClimAg is a three-year research project funded by the [Environmental Protection Agency (EPA)](https://www.epa.ie/) under the Climate Change Research Programme grant number 2018-CCRP-MS.50, with additional funding provided under the COVID-19 research support scheme of the [Higher Education Authority](https://hea.ie/).
+ClimAg is a three-year research project funded by the [Environmental Protection Agency (EPA)](https://www.epa.ie/) (Ireland) under the Climate Change Research Programme grant number 2018-CCRP-MS.50, with additional funding provided under the COVID-19 research support scheme of the [Higher Education Authority](https://hea.ie/) (Ireland).
+
+The authors acknowledge the inputs of the ClimAg project steering committee members throughout the project.
+The authors thank Eoin Whelan ([Met Éireann](https://www.met.ie/), Dublin, Ireland), Paul Nolan ([Irish Centre for High-End Computing](https://www.ichec.ie/), Dublin, Ireland), and Elodie Ruelle ([Teagasc](https://www.teagasc.ie/animals/dairy/moorepark/), Moorepark, Ireland) for providing datasets used in this study.
 
 The Python implementation of the [ModVege](https://code.europa.eu/agri4cast/modvege) pasture model adapted for use in this project was translated from Java to Python by Y. Chemin of [JRC Ispra](https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-ispra-italy_en).
 This Python implementation was originally published as public domain software on GitHub under the [Unlicence license](https://github.com/ClimAg/modvege).
@@ -45,5 +48,7 @@ The original ModVege pasture model was developed by [Jouven *et al.*](https://do
 ## Links
 
 - [Landing page](https://www.ucc.ie/en/eel/projects/climag/)
+- [GitHub](https://github.com/ClimAg)
+- [Documentation](https://climag.readthedocs.io/)
 - [X](https://x.com/climatt_project)
 - [Zotero library](https://www.zotero.org/groups/4706660/climag/library)
