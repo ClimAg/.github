@@ -19,9 +19,9 @@ This GitHub organisation hosts repositories for ClimAg and other related project
 
 ## Team
 
-- [Dr. Paul Leahy](https://research.ucc.ie/profiles/D012/paulleahy) (Investigator, School of Engineering & Architecture)
-- [Dr. Kieran Hickey](https://research.ucc.ie/profiles/A010/kieranhickey) (Investigator, Department of Geography)
-- [Prof. Astrid Wingler](https://research.ucc.ie/profiles/D026/astridwingler) (Investigator, School of Biological, Earth & Environmental Sciences)
+- [Dr. Paul Leahy](https://research.ucc.ie/profiles/paul.leahy@ucc.ie) (Investigator, School of Engineering & Architecture)
+- [Dr. Kieran Hickey](https://research.ucc.ie/profiles/kieran.hickey@ucc.ie) (Investigator, Department of Geography)
+- [Prof. Astrid Wingler](https://research.ucc.ie/profiles/astrid.wingler@ucc.ie) (Investigator, School of Biological, Earth & Environmental Sciences)
 - [Nithiya Streethran](https://github.com/nmstreethran) (Researcher, Environmental Research Institute)
 
 ### Alumni
