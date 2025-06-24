@@ -31,7 +31,7 @@ This GitHub organisation hosts repositories for ClimAg and other related project
 
 ## Research outputs
 
-1. Streethran, N., Hickey, K., Wingler, A., and Leahy, P. (2024). *ClimAg: Multifactorial Causes of Fodder Crises in Ireland and Risks due to Climate Change*. Johnstown Castle: Environmental Protection Agency (EPA Research Report, 464). Available at: <https://www.epa.ie/publications/research/climate-change/research-464> (Accessed: 17 October 2024).
+1. Streethran, N., Hickey, K., Wingler, A., and Leahy, P. (2024). *ClimAg: Multifactorial Causes of Fodder Crises in Ireland and Risks due to Climate Change*. Johnstown Castle: Environmental Protection Agency (EPA Research Report, 464). Available at: <https://www.epa.ie/publications/research/climate-change/research-464-climag-multifactorial-causes-of-fodder-crises-in-ireland-and-risks-due-to-climate-change.php> (Accessed: 17 October 2024).
 1. Wingler, A., Streethran, N., Hickey, K., and Leahy, P. (2024). ‘Multifactorial drivers of fodder crises in Irish temperate pastures and risks due to climate change’, *Biology and Environment: Proceedings of the Royal Irish Academy*, 124B(2–3), pp. 91–102. Available at: <https://doi.org/10.1353/bae.2024.a945364>.
 1. Leahy, P., Streethran, N., Hickey, K., and Wingler, A. (2024). ‘Grass production and fodder deficits in Ireland under projected mid-century climatic conditions’. *The 3rd International Symposium on Climate-Resilient Agri-Environmental Systems*, Dublin, 26 June. Available at: <https://doi.org/10.13140/RG.2.2.19287.48809>.
 1. Leahy, P. G., Streethran, N., Hickey, K., and Wingler, A. (2022). ‘Increased severity and frequency of fodder production deficits under future climate conditions in Ireland’. *The 2nd International Symposium on Climate-Resilient Agri-Environmental Systems*, Dublin, 29 August. Available at: <https://www.iscraes.org/wp-content/uploads/2023/01/Paul-Leahy-Poster-grassland-poster-ISCRAES-2022.pdf> (Accessed: 27 March 2023).
@@ -39,7 +39,7 @@ This GitHub organisation hosts repositories for ClimAg and other related project
 
 ## Acknowledgements
 
-ClimAg is a three-year research project funded by the [Environmental Protection Agency (EPA)](https://www.epa.ie/) (Ireland) under the Climate Change Research Programme grant number 2018-CCRP-MS.50, with additional funding provided under the COVID-19 research support scheme of the [Higher Education Authority](https://hea.ie/) (Ireland).
+ClimAg is a three-year research project funded by the [Environmental Protection Agency (EPA) Ireland](https://www.epa.ie/) under the Climate Change Research Programme grant number 2018-CCRP-MS.50, with additional funding provided under the COVID-19 research support scheme of the [Higher Education Authority (HEA) Ireland](https://hea.ie/).
 
 The authors acknowledge the inputs of the ClimAg project steering committee members throughout the project.
 The authors thank Eoin Whelan ([Met Éireann](https://www.met.ie/), Dublin, Ireland), Paul Nolan ([Irish Centre for High-End Computing (ICHEC)](https://www.ichec.ie/), Dublin, Ireland), and Elodie Ruelle ([Teagasc](https://www.teagasc.ie/animals/dairy/moorepark/), Moorepark, Ireland) for providing datasets used in this study.
